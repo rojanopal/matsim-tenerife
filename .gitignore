@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+output*/
+scenarios/
+plans/
+maps/
+target/
